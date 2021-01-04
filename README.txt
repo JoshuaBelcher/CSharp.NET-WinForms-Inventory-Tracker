@@ -1,0 +1,1 @@
+Windows Forms application that allows the user to add and delete inventory items.
